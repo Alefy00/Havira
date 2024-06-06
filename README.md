@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-**Havira** é uma aplicação web construída usando React, Redux, Leaflet para mapas, e TailwindCSS para estilização. A aplicação permite gerenciar usuários, visualizá-los em uma lista e em um mapa, e oferece uma funcionalidade de alternância de tema (modo claro/escuro).
+**Havira** é uma aplicação web construída usando React/Vite, Redux, Leaflet para mapas, e TailwindCSS para estilização. A aplicação permite gerenciar usuários, visualizá-los em uma lista e em um mapa, e oferece uma funcionalidade de alternância de tema (modo claro/escuro).
 
 ## Estrutura do Projeto
 
